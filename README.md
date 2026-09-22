@@ -1,7 +1,7 @@
 # PIg-Seq
 Scripts for "Paired sequencing of IgA-bound bacteria reveals widespread associations between adaptive immunity and gut microbiome gene expression."
 
-Processed data available at [Figshare DOI forthcoming]. Raw reads deposited at ENA under PRJEB127118.
+Processed data available at https://doi.org/10.48420/33951214. Raw reads deposited at ENA under PRJEB127118.
 
 # Repository structure
 Relevant bioinformatics scripts and utilities can be found in the bioinformatics/ folder. Scripts for statistical analysis and related functions can be found in the analysis/ folder.
