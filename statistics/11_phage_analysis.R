@@ -13,7 +13,7 @@
 #               pharokka_cds_final_merged_output.tsv (https://doi.org/10.48420/33951214)
 #               phage_combined_annotations_filtered.tsv (https://doi.org/10.48420/33951214)
 #               Data (phyloseq, from data_structuring.R)
-# Output:       A .svg of phage genome maps. Figure 4 panel B
+# Output:       A .svg of phage genome maps. Figure 3 panel B
 # =============================================================================
 
 # ---- Paths (update for your system) ----
