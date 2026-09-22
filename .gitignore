@@ -1,0 +1,12 @@
+data/*.rds
+data/*.csv
+data/*.txt
+data/*.xlsx
+!data/README.md
+figures/
+*.pdf
+*.png
+*.svg
+.Rhistory
+.RData
+.Rproj.user
